@@ -49,5 +49,9 @@ Criar uma aplicação que simule uma busca e envio de cursos para uma plataforma
       <td>Route Params
       <td>Parâmetro passado diretamente na rota usado para, Identificar/editar/deletar e buscar um dado</td>
     </tr>
+    <tr>
+      <td>Query Params</td>
+      <td>Paginação/Filtro</td>
+    </tr>
   </tbody>
 </table>
