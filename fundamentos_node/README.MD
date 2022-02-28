@@ -53,5 +53,8 @@ Criar uma aplicação que simule uma busca e envio de cursos para uma plataforma
       <td>Query Params</td>
       <td>Paginação/Filtro</td>
     </tr>
+      <td>Body Params</td>
+      <td>Os objetos inserção/alteração (JSON)</td>
+    <tr/>
   </tbody>
 </table>
