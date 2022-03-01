@@ -58,3 +58,13 @@ Criar uma aplicação que simule uma busca e envio de cursos para uma plataforma
     <tr/>
   </tbody>
 </table>
+
+### Start
+
+    yarn 
+    // or
+    npm i
+
+    yarn dev
+    // or
+    npm run dev
