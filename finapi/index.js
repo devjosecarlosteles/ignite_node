@@ -18,7 +18,7 @@ app.post("/account", (req, res) => {
 
   const customerAlreadyExists = customers.some((customer) => customer.cpf === cpf)
 
-  if(customerAlreadyExists) return res.status(400).json({ err: "Customer Already exists" })
+  if(customerAlreadyExists) return res.status(400).json({ err: "Customer Already exists " })
 
   const id = uuidv4()
 
