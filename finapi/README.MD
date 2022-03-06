@@ -9,7 +9,7 @@
 - [x] Buscar extrato do cliente por data
 - [x] Atualizar dados da conta do cliente
 - [x] Obter dados da conta do cliente
-- [] Deletar conta
+- [x] Deletar conta
 
 ### Regras de Negócio
 
