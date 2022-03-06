@@ -118,5 +118,10 @@ app.put("/account", verifyIfExistsAccountCPF, (req, res) => {
   return res.status(201).send()
 })
 
+app.get("/account", verifyIfExistsAccountCPF, (req, res) => {
+  const { customer } = req
+
+  return res.status(200).json(customer)
+})
 
 app.listen(3333, () => console.log("server running in localhost:3333"))
